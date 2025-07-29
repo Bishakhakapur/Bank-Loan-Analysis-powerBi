@@ -1,4 +1,5 @@
-📊 Bank Loan Analysis
+<h1 align="center">🏦 Bank Loan Analysis</h1>
+
 
 A detailed Power BI report visualizing bank loan, deposits, and customer segmentation data.
 
